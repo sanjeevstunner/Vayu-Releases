@@ -1,2 +1,10 @@
- 18-01-2022 [`Download`](https://github.com/sanjeevstunner/Vayu-Releases/releases/download/pex_12-22.1.0/PixelExtended_vayu-12.0-20220117-1130-UNOFFICIAL-Chandler_Bing.zip)
- - Initial Build
+22-01-2022
+ - Enable combined signal icons in status bar
+ - Increase handset speaker and mic volume to match MIUI
+ - Enable vibration multiple intensities options (should help customise vibration intensity between low-high in supported ROMs)
+ - Dropped Xiaomi Parts
+
+18-01-2022 
+ - Enable quick tap
+ - Enable adaptive charging 
+ - Add 'Saturated' color mode
