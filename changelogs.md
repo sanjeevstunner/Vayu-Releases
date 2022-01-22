@@ -6,7 +6,10 @@
  - Flashing  magisk is fine, but if you installed any mod, clean flash before reporting a bug [Don't be a retarded]
  - Don't spam for feature request (ask once, I'll consider adding) [Not gaurenteed to make it happen]
  - Ask anything in my group [here](https://t.me/chandeler_s_chat) 
-
+ - You are free to use any firmware
+ - SafetyNet passes out of the box
+ - SELinux status is Enforcing
+  
 ---
 
 **Credits**
