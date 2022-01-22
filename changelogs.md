@@ -2,8 +2,9 @@
 # Notes [Must Read]
 
  - Bug report without logs is useless
- - No support will be provided for ROMs with custom kernels installed
- - Flashing  magisk is fine, but try reporting bugs once you're sure its not caused due to some module you installed [Don't be a retarded]
+ - No support will for custom kernels
+ - Flashing  magisk is fine, but if you installed any mod, clean flash before reporting a bug [Don't be a retarded]
+ - Don't spam for feature request (ask once, I'll consider adding) [Not gaurenteed to make it happen]
  - Ask anything in my group [here](https://t.me/chandeler_s_chat) 
 
 ---
