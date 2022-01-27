@@ -1,10 +1,10 @@
 
 # Notes [Must Read]
 
- - Bug report without logs is useless
- - No support will for custom kernels
- - Flashing  magisk is fine, but if you installed any mod, clean flash before reporting a bug [Don't be a retarded]
- - Don't spam for feature request (ask once, I'll consider adding) [Not gaurenteed to make it happen]
+ - Found any bug?, report it with a proper logcat
+ - No support for custom kernels 
+ - Flashed Magisk? enable magisk hide
+ - Don't spam for feature request (ask once, I'll try to add) 
  - Ask anything in my group [here](https://t.me/chandeler_s_chat) 
  - You are free to use any firmware
  - SafetyNet passes out of the box
