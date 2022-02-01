@@ -20,13 +20,17 @@ Thanks to [Raghav](https://github.com/raghavt20) for base trees
  
 # Device Changelogs
 
-**`22-01-2022`**
+**`01-31-2022`**
+ - Nuke default camera app (package: Camera2)
+ - Fix VILTE calls 
+
+**`01-22-2022`**
  - Enable combined signal icons in status bar
  - Increase handset speaker and mic volume to match MIUI
  - Enable vibration multiple intensities options (should help customise vibration intensity between low-high in supported ROMs)
  - Dropped Xiaomi Parts
 
-**`18-01-2022`**
+**`01-18-2022`**
  - Enable quick tap
  - Enable adaptive charging 
  - Add 'Saturated' color mode
