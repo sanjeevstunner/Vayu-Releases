@@ -20,6 +20,9 @@ Thanks to [Raghav](https://github.com/raghavt20) for base trees
  
 # Device Changelogs
 
+**`02-04-2022`**
+ - Switch to Vulkan UI renderer 
+
 **`01-31-2022`**
  - Nuke default camera app (package: Camera2)
  - Fix VILTE calls 
