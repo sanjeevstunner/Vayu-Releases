@@ -3,7 +3,7 @@
 
  - Found any bug?, report it with a proper logcat
  - No support for custom kernels 
- - Flashed Magisk? enable magisk hide
+ - Flashed Magisk? enable zygote deny list and install [SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix/releases) 
  - Don't spam for feature request (ask once, I'll try to add) 
  - Ask anything in my group [here](https://t.me/chandeler_s_chat) 
  - You are free to use any firmware
@@ -20,6 +20,9 @@ Thanks to [Raghav](https://github.com/raghavt20) for base trees
  
 # Device Changelogs
 
+**`02-17-2022`**
+ - [BUG FIX] Fix IR blaster 
+
 **`02-04-2022`**
  - Switch to Vulkan UI renderer 
 
@@ -29,7 +32,7 @@ Thanks to [Raghav](https://github.com/raghavt20) for base trees
 
 **`01-22-2022`**
  - Enable combined signal icons in status bar
- - Increase handset speaker and mic volume to match MIUI
+ - Increase handset speaker and mic volume
  - Enable vibration multiple intensities options (should help customise vibration intensity between low-high in supported ROMs)
  - Dropped Xiaomi Parts
 
