@@ -30,7 +30,7 @@ Thanks to [Raghav](https://github.com/raghavt20) for base trees
  - Switch to Vulkan UI renderer 
 
 **`01-31-2022`**
- - Nuke default camera app (package: Camera2)
+ - Nuke default camera app 
  - Fix VILTE calls 
 
 **`01-22-2022`**
