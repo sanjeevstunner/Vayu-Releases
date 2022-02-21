@@ -20,6 +20,9 @@ Thanks to [Raghav](https://github.com/raghavt20) for base trees
  
 # Device Changelogs
 
+**`02-21-2022`**
+ - Add support for AUX camers in Open Camera App  
+
 **`02-17-2022`**
  - [BUG FIX] Fix IR blaster 
 
