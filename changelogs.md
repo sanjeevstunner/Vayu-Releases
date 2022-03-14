@@ -1,5 +1,8 @@
 # Device Changelogs
 
+**`03-13-2022`**
+ - Nuke Adaptive charging 
+ 
 **`02-21-2022`**
  - Add support for AUX camers in Open Camera App  
 
