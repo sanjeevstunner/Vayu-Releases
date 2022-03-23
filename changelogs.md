@@ -1,7 +1,7 @@
 # Device Changelogs
 
 **`03-22-2022`**
- - Add call recording to default dialer
+ - Add call recording to Google Phone app
  - Show **Turbo Charging** when using the proprietary charger, like MIUI
  - Video captured in ScrenRecorder is capped to 120 FPS
  - Some network and GPS improvemnts 
