@@ -1,5 +1,13 @@
 # Device Changelogs
 
+
+**`03-29-2022`**
+ - Reintroduce `Device parts` with
+   - Dirac Sound Enhancer
+   - Clear Speaker
+   - Thermal Settings
+   - Refresh Rate toggle quick tile
+
 **`03-22-2022`**
  - Add call recording to Google Phone app
  - Show **Turbo Charging** when using the proprietary charger, like MIUI
