@@ -2,8 +2,9 @@
 
 **`04-07-2022`**
  - Add back Camera2 
- - Device parts: Dirac: New Presets Added: Live, Balanced, Bass Reduction, Treble Reduction, Soft Bass, Soft Treble 
- - Device parts: Dirac: Add MiSound scenes 
+ - Dirac <AKA> Mi Sound Enhancer 
+   - New Presets Added: Live, Balanced, Bass Reduction, Treble Reduction, Soft Bass, Soft Treble 
+   - Ported MiSound scenes 
  - Revert "combined signal icons in status bar" 
 
 
