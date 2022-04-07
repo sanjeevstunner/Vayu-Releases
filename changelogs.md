@@ -1,5 +1,11 @@
 # Device Changelogs
 
+**`04-07-2022`**
+ - Add back Camera2 
+ - Device parts: Dirac: New Presets Added: Live, Balanced, Bass Reduction, Treble Reduction, Soft Bass, Soft Treble 
+ - Device parts: Dirac: Add MiSound scenes 
+ - Revert "combined signal icons in status bar" 
+
 
 **`03-29-2022`**
  - Reintroduce `Device parts` with
