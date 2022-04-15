@@ -1,12 +1,14 @@
 # Device Changelogs
 
+**`04-14-2022`**
+ - Reduce time taken to boot into system (Faster boot times, usually took 10 seconds to move from splash to boot animation, reducesed that delay to half)
+
 **`04-07-2022`**
  - Add back Camera2 
  - Dirac Sound Enhancer (AKA) Mi Sound Enhancer 
    - New Presets Added: Live, Balanced, Bass Reduction, Treble Reduction, Soft Bass, Soft Treble 
    - Ported MiSound scenes 
  - Revert "combined signal icons in status bar" 
-
 
 **`03-29-2022`**
  - Reintroduce `Device parts` with
