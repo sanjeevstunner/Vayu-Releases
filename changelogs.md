@@ -1,7 +1,7 @@
 # Device Changelogs
 
 **`04-14-2022`**
- - Reduce time taken to boot into system (Faster boot times, usually took 10 seconds to move from splash to boot animation, reducesed that delay to half)
+ - Reduce time taken to boot into system (Faster boot times, usually took 10 seconds to move from splash screen to boot animation, reduced that delay to half)
 
 **`04-07-2022`**
  - Add back Camera2 
