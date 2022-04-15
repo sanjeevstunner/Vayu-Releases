@@ -1,6 +1,6 @@
 # Device Changelogs
 
-**`04-14-2022`**
+**`04-15-2022`**
  - Make the UI smoother on top of smoothness provided by Android 12.1
  - Added modded Pixel Launcher as prebuilt home app
    - Double Tap to Sleep
