@@ -1,6 +1,17 @@
 # Device Changelogs
 
 **`04-14-2022`**
+ - Make the UI smoother on top of smoothness provided by Android 12.1
+ - Added modded Pixel Launcher as prebuilt home app
+   - Double Tap to Sleep
+   - More Grids Options [Available 6x9, 6x8, 6x7, 6x6, 5x8, 5x7, 5x6, 5x5, 4x7,
+4x6, 4x5, 4x4, 3x3, 2x2]
+   - The appearance of app-drawer in-device search bar colour in light/dark theme is correct(which is buggy in original pixel launcher on all aosp based roms, only works fine in pixel devices)
+   - Search Results Highlight Colour shows in material you colour. When you press enter while highlighting search results, that app/settings opens. Subtle Changes in Group Highlights & Search Box Highlight
+   - Smoothness better than original launcher. Added Tweaks which makes the launcher more smoother. 
+   - [Bug] Weather widget in 'At a Glance' widget (below calendar/date) not launching google weather app (Weather data is working fine tho)
+
+**`04-14-2022`**
  - Reduce time taken to boot into system (Faster boot times, usually took 10 seconds to move from splash screen to boot animation, reduced that delay to half)
 
 **`04-07-2022`**
