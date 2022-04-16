@@ -1,5 +1,11 @@
 # Device Changelogs
 
+**`04-16-2022`**
+ - Enable haptics when swiping text cursor 
+ - Remove mobile plan from Settings -> Network & Internet 
+ - Kang brightness overlays from **Pixel 3a XL** 
+ - Set Recommended Night Display Color Temperature as default - [Reference ](https://www.google.com/search?q=recommended+display+temperature+for+night+mode&rlz=1C1ONGR_enIN974IN974&oq=recommended+display+temperature+for+night+mode+&aqs=chrome..69i57j33i160l2.15403j0j7&sourceid=chrome&ie=UTF-8#:~:text=During%20the%20daylight%20hours%2C%20it%27s%20best%20to%20keep%20your%20monitor%20relatively%20cool%20with%20a%20default%20color%20temperature%20of%206%2C500K.%20At%20night%2C%20the%20color%20temperature%20should%20be%20warmer%2C%20and%20around%203%2C400K.)
+
 **`04-15-2022`**
  - Make the UI smoother on top of smoothness provided by Android 12.1
  - Added modded Pixel Launcher as prebuilt home app
