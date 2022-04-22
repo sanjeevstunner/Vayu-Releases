@@ -1,7 +1,7 @@
 # Device Changelogs
 
 **`04-22-2022`**
- - MiParts: Add Haptics level customisations 
+ - Add Haptics level customisations 
  - Add G Cam by BSG as default [Bug: Camera crashing when system's camera API is requested]
 
 **`04-16-2022`**
