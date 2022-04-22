@@ -1,5 +1,9 @@
 # Device Changelogs
 
+**`04-22-2022`**
+ - MiParts: Add Haptics level customisations 
+ - Add G Cam by BSG as default [Bug: Camera crashing when system's camera API is requested]
+
 **`04-16-2022`**
  - Enable haptics when swiping text cursor 
  - Remove mobile plan from Settings -> Network & Internet 
