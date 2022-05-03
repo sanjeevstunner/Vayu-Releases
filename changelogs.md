@@ -1,5 +1,9 @@
 # Device Changelogs
 
+
+**`05-03-2022`**
+ - Increase SWAP (zRAM) memory to improve system smoothness 
+
 **`04-22-2022`**
  - Add Haptics level customisations 
  - Add G Cam by BSG as default [Bug: Camera crashing when system's camera API is requested]
