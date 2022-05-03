@@ -6,7 +6,7 @@
 
 **`04-22-2022`**
  - Add Haptics level customisations 
- - Add G Cam by BSG as default [Bug: Camera crashing when system's camera API is requested]
+ - Add G Cam by BSG as default [Bug: Camera crashing when system's camera API is requested] [Recommend Config](https://t.me/chandeler_s_chat/13930)
 
 **`04-16-2022`**
  - Enable haptics when swiping text cursor 
