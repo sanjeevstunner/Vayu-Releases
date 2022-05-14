@@ -3,7 +3,7 @@
 
 **`05-14-2022`**
  - Update Pixel Launcher MOD to v8.4 
-   - Added themed icons from the module [In Pure / Regular PE too] 
+   - Added themed icons from the module [In Pure PE AKA Regular PE too] 
    - [More Changelogs](https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-03-31-2) 
 
 **`05-03-2022`**
