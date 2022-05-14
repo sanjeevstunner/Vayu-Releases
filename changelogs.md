@@ -2,7 +2,9 @@
 
 
 **`05-14-2022`**
- - Update Pixel Launcher MOD to v8.4 | [Changelogs](https://www.pling.com/p/1720688/) 
+ - Update Pixel Launcher MOD to v8.4 
+   - Added themed icons from the module [In Pure / Regular PE too] 
+   - [More Changelogs](https://www.pling.com/p/1720688/) 
 
 **`05-03-2022`**
  - Increase SWAP (zRAM) memory to improve system smoothness 
