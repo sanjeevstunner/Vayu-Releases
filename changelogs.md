@@ -1,6 +1,15 @@
 # Device Changelogs
 
 
+**`05-20-2022`**
+ - Updated GCam to latest version (MGC_8.1.101_A9_GV1zfix) Source [HERE](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl75/1/)
+ - Add QS tile to launch Thermal Profiles
+ - Add Ambient Display settings 
+   - Pick-up to wake device
+   - Hand Wave to wake device
+   - Wake device when out of pocket 
+ - Add FS info QS tile 
+
 **`05-14-2022`**
  - Update Pixel Launcher MOD to v8.4 
    - Added themed icons from the module [In Pure PE AKA Regular PE too] 
