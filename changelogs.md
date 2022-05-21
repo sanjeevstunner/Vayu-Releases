@@ -8,7 +8,7 @@
    - Pick-up to wake device
    - Hand Wave to wake device
    - Wake device when out of pocket 
- - Add FS info QS tile 
+ - Add FPS info QS tile 
 
 **`05-14-2022`**
  - Update Pixel Launcher MOD to v8.4 
