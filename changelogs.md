@@ -1,5 +1,7 @@
 # Device Changelogs
 
+**`05-24-2022`**
+ - Add per-app refresh rate 
 
 **`05-20-2022`**
  - Updated GCam to latest version (MGC_8.1.101_A9_GV1zfix) Source [HERE](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl75/1/)
@@ -11,7 +13,7 @@
  - Add FPS info QS tile 
 
 **`05-14-2022`**
- - Update Pixel Launcher MOD to v8.4 
+ - Upstreamed Pixel Launcher MOD to v8.4 
    - Added themed icons from the module [In Pure PE AKA Regular PE too] 
    - [More Changelogs](https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-03-31-2) 
 
