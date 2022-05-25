@@ -1,7 +1,10 @@
 # Device Changelogs
 
+**`05-25-2022`**
+ - Add Dolby Atmos 
+
 **`05-24-2022`**
- - Add per-app refresh rate 
+ - Add per-app refresh rate settings
 
 **`05-20-2022`**
  - Updated GCam to latest version (MGC_8.1.101_A9_GV1zfix) Source [HERE](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl75/1/)
