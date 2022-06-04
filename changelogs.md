@@ -1,5 +1,14 @@
 # Device Changelogs
 
+
+**`06-04-2022`**
+ - Upstreamed Pixel Launcher MOD to v8.4 
+   - Added more grids
+   - Added more themed icons
+   - Full changelogs [HERE](https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28)
+ - Improve zRAM performance
+ - Imporved background app management
+
 **`05-25-2022`**
  - Add Dolby Atmos 
 
