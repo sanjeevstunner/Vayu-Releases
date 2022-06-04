@@ -10,7 +10,7 @@
  - Imporved background app management
 
 **`05-25-2022`**
- - Add Dolby Atmos 
+ - Added Moto Dolby by ReiRyuki - [Source Code](https://github.com/reiryuki/Moto-Dolby-G-Pro-Magisk-Module) 
 
 **`05-24-2022`**
  - Add per-app refresh rate settings
