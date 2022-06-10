@@ -1,14 +1,15 @@
 # Device Changelogs
 
+**`06-10-2022`**
+ - Upstreamed Pixel Launcher MOD to v9.3 | [Changelogs](https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28)
+ - Upstream GCam to MGC_8.1.101_A9_GV2b | [Source](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl88/3/)
 
 **`06-04-2022`**
  - Upstreamed Pixel Launcher MOD to v8.4 
    - Added more grids
    - Added more themed icons
    - Full changelogs [HERE](https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28)
- - Improve zRAM performance
- - Imporved background app management
-
+ 
 **`05-25-2022`**
  - Added Moto Dolby by ReiRyuki - [Source Code](https://github.com/reiryuki/Moto-Dolby-G-Pro-Magisk-Module) 
 
