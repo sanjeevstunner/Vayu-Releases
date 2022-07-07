@@ -1,5 +1,11 @@
 # Device Changelogs
 
+
+**`07-07-2022`**
+ - Removed Pixel Launcher MODs app, as it requires root
+ - Fixed greyed out USB actions in notifications when connected to PC
+ - Revert "Set Recommended Night Display Color Temperature as default" 
+
 **`06-10-2022`**
  - Upstreamed Pixel Launcher MOD to v9.3 | [Changelogs](https://telegra.ph/Changelog-Of-Pixel-Launcher-MOD-05-28)
  - Upstream GCam to MGC_8.1.101_A9_GV2b | [Source](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl88/3/)
