@@ -1,5 +1,11 @@
 # Device Changelogs
 
+**`07-19-2022`**
+ - [Unsure] Build some RIL libs to overcome call failing issues
+ - Disable some GMS components | Results in better wifi speeds and battery backup 
+ - Tune zRAM for better performance
+ - Add fastboot[in recovery] mode to advanced reboot menu 
+ - Upstreamed Pixel Launcher MOD to 9.8 | Full changelogs [HERE](https://www.pling.com/p/1720688/)
 
 **`07-07-2022`**
  - Removed Pixel Launcher MODs app, as it requires root
