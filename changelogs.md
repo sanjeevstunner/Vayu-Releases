@@ -1,5 +1,12 @@
 # Device Changelogs
 
+**`07-26-2022`**
+ - A lot of tweaks in init scripts (Added from @Project-Awaken vayu device tree)
+ - Update vendor blobs to miui 13.0.4.0 
+ - Added notch bar killer overlay (This overlay gets rid of the black bar in most apps/games and lets the screen fill past the notch.)
+ - Import vibration patterns from Pixel 4 XL 
+ - Imporove statusbar padding and margins 
+
 **`07-19-2022`**
  - [Unsure] Build some RIL libs to overcome call failing issues
  - Disable some GMS components | Results in better wifi speeds and battery backup 
