@@ -1,5 +1,13 @@
 # Device Changelogs
 
+**`09-13-2022`**
+ - Fall back to mochi kernel 
+ - Switch to Arrow OS device trees 
+
+**_A fresh start with Android 13_**
+
+--- 
+
 <details>
 <summary>Android 12</summary>
 
@@ -126,7 +134,5 @@
  - Add 'Saturated' color mode
  
 </details>
-
---- 
 
 _*note: The list contains future changes, that are tested and will be added in next builds. Thats why the dates are given, the ones added after the builds got published are made for next release cycle. Plox, use your brains and dont bug me with mentioned features not available in your builds._
