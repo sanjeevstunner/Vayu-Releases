@@ -1,5 +1,8 @@
 # Device Changelogs
 
+<details>
+<summary>Android 12</summary>
+
 **`07-26-2022`**
  - A lot of tweaks in init scripts (Added from @Project-Awaken vayu device tree)
  - Update vendor blobs to miui 13.0.4.0 
@@ -121,6 +124,8 @@
  - Enable quick tap
  - Enable adaptive charging 
  - Add 'Saturated' color mode
+ 
+</details>
 
 --- 
 
