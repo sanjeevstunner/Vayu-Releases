@@ -1,5 +1,10 @@
 # Device Changelogs
 
+**`11-08-2022`**
+ - Drop IO prefetcher 
+ - Drop QTI Perfd 
+ - Migrate from QTI to Xiaomi power HAL 
+
 **`10-29-2022`**
  - Update audio HAL to 7.1 and add some audio tweaks 
  - Update surface flinger props and other smoothness tweaks 
