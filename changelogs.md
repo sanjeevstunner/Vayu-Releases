@@ -1,5 +1,12 @@
 # Device Changelogs
 
+**`12-28-2022`**
+ - Enable Zygote critical window 
+ - Add magisk hide props, banking apps that did not work before and recognized Magisk being installed now don't recognize that and work just fine 
+ - Add support for Google Play system updates (apex) and CarrierSettings 
+ - Updated blobs from miui_VAYUGlobal_V13.0.5.0.SJUMIXM 
+ - Included some smoothness tweaks 
+
 **`11-08-2022`**
  - Drop IO prefetcher 
  - Drop QTI Perfd 
