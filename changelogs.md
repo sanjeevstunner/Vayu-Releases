@@ -1,6 +1,7 @@
 # Device Changelogs
 
-**`12-28-2022`**
+**`01-01-2023`**
+ - Update default bluetooth name from model number to product name 
  - Enable Zygote critical window 
  - Add magisk hide props, banking apps that did not work before and recognized Magisk being installed now don't recognize that and work just fine 
  - Add support for Google Play system updates (apex) and CarrierSettings 
