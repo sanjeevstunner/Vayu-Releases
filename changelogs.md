@@ -1,5 +1,8 @@
 # Device Changelogs
 
+**`01-04-2023`**
+  - Drop support for Google Play system updates (apex) and CarrierSettings
+
 **`01-01-2023`**
  - Update default bluetooth name from model number to product name 
  - Enable Zygote critical window 
