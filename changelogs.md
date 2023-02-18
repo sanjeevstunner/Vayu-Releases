@@ -1,13 +1,13 @@
 # Device Changelogs
 
-**`01-04-2023`**
-  - Drop support for Google Play system updates (apex) and CarrierSettings
+**`02-18-2023`**
+ - Remove depricated entries from Audio Configs 
+ - Update carrier config from LA.QSSI.13.0.r1-07400-qssi.0 and MIUI 13.0.5.0
 
 **`01-01-2023`**
  - Update default bluetooth name from model number to product name 
  - Enable Zygote critical window 
  - Add magisk hide props, banking apps that did not work before and recognized Magisk being installed now don't recognize that and work just fine 
- - Add support for Google Play system updates (apex) and CarrierSettings 
  - Updated blobs from miui_VAYUGlobal_V13.0.5.0.SJUMIXM 
  - Included some smoothness tweaks 
 
