@@ -1,5 +1,16 @@
 # Device Changelogs
 
+**`03-22-2023`**
+ - Improve status bar time and keygaurd network label positon consistency 
+ - Build aptX(HD) encoder libs from source 
+ - Drop saturated color profile in settings (It uses native color profile and it's not supposed to be used) 
+ - Enable suspend to RAM (Improves idle drain considerably.) 
+ - Allow GPU boosting on performance mode 
+ - Enable oem fast charge (Fast charging capabilites gets detected better than in generic impl.) 
+ - Enable background ART heap compaction for cached apps (Better RAM management.) 
+ - surface flinger: Force triple frame buffers (Reduces jitter without impacting latency.) 
+ - Improve kernel compilation 
+
 **`02-18-2023`**
  - Remove depricated entries from Audio Configs 
  - Update carrier config from LA.QSSI.13.0.r1-07400-qssi.0 and MIUI 13.0.5.0
