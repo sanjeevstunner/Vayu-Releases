@@ -1,5 +1,11 @@
 # Device Changelogs
 
+**`03-30-2023`**
+ - Build Boost Framework 
+ - Fix QS lags
+ - Switch to Thousand SunnyGo kernel 
+ - Upstream kernel to v4.14.311
+
 **`03-22-2023`**
  - Improve status bar time and keygaurd network label positon consistency 
  - Drop aptX(HD) encoder libs (depricated) 
