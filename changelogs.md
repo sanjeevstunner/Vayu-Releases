@@ -1,10 +1,14 @@
 # Device Changelogs
 
+**`04-19-2023`**
+ - Ship MIUI 12.0.4.0 (India) firmware with the ROM package 
+ - Add some surfaceflinger props to reduce lags | QS lags are still there, no working fix found yet
+ - Fix nightlight (reduced the redness of the default nightlight implementation) 
+ - Switch to Kyrelight Kernel 
+ - Upstream kernel to v4.14.312 
+
 **`03-30-2023`**
  - Build Boost Framework 
- - Fix QS lags
- - Switch to Thousand SunnyGo kernel 
- - Upstream kernel to v4.14.311
 
 **`03-22-2023`**
  - Improve status bar time and keygaurd network label positon consistency 
