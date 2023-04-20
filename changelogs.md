@@ -4,6 +4,7 @@
  - Ship MIUI 12.0.4.0 (India) firmware with the ROM package 
  - Add some surfaceflinger props to reduce lags | QS lags are still there, no working fix found yet
  - Fix nightlight (reduced the redness of the default nightlight implementation) 
+ - Enable blues (its subtle) 
  - Switch to Kyrelight Kernel 
  - Upstream kernel to v4.14.312 
 
