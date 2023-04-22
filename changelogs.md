@@ -1,5 +1,9 @@
 # Device Changelogs
 
+**`04-21-2023`**
+ - Switch kernel name 
+ - Fix NFC 
+
 **`04-19-2023`**
  - Ship MIUI 12.0.4.0 (India) firmware with the ROM package 
  - Add some surfaceflinger props to reduce lags | QS lags are still there, no working fix found yet
